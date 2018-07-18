@@ -96,3 +96,6 @@ services:
       # GELF UDP
       - 12201:12201/udp
 ```
+
+> docker-compose up
+> http://127.0.0.1:9000
