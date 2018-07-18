@@ -100,3 +100,16 @@ services:
 > docker-compose up
 
 > http://127.0.0.1:9000
+
+## 기타
+
+> 로그 LEVEL이 숫자로 표시됨.
+
+1. Decorators 탭에서 Syslog Severity Mapper 선택
+
+~~~
+source_field: level
+target_field: LEVEL
+~~~
+
+2. Fields 탭에서 level 대신 LEVEL 선택
