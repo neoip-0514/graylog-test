@@ -37,6 +37,8 @@
 
 > Step 5: Add Tags
 
+- Key/Value: Name/log-server.beta
+
 > Step 6: Configure Security Group
 
 - Assign a security group: (O)Select an existing security group
