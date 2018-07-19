@@ -37,7 +37,7 @@
 
 > Step 5: Add Tags
 
-- Key/Value: Name/log-server.beta
+- Key/Value: Name/log-server.beta **주의) key명 대소문자 구별함.**
 
 > Step 6: Configure Security Group
 
