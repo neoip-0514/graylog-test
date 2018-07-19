@@ -33,4 +33,6 @@
 
 > Step 4: Add Storage
 
+![step4](images/step4.png)
+
 ##
