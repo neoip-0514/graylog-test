@@ -33,6 +33,17 @@
 
 > Step 4: Add Storage
 
-![step4](images/step4.png)
+  ![step4](images/step4.png)
+
+> Step 5: Add Tags
+
+> Step 6: Configure Security Group
+
+- Assign a security group: (O)Select an existing security group
+
+> Step 7: Review Instance Launch
+
+- Launch> Select an existing key pair or create a new key pair
+- Launch Instances
 
 ##
