@@ -62,9 +62,15 @@ services:
 
 1. Decorators 탭에서 Syslog Severity Mapper 선택
 
-~~~
+~~~ yaml
 source_field: level
 target_field: LEVEL
 ~~~
 
 2. Fields 탭에서 level 대신 LEVEL 선택
+
+> docker container 에 접속하기
+
+~~~ bash
+docker exec -it graylog_graylog_1 /bin/bash
+~~~
